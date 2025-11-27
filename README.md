@@ -221,9 +221,20 @@ npm run build
 4. Sign the decryption request
 5. View charts and analytics
 
+## 🌐 Live Deployment
+
+The frontend is deployed on Vercel and accessible at:
+
+- **Production URL**: https://fherate-frontend-gmvrhtzxg-galaxys-projects-639e1fd2.vercel.app
+- **Vercel Dashboard**: [Project Settings](https://vercel.com/galaxys-projects-639e1fd2/fherate-frontend/settings)
+
+**Note**: To use the dApp, connect your MetaMask wallet to the Sepolia testnet (Chain ID: 11155111).
+
 ## 🔗 Links
 
+- **Live dApp**: [FHERate on Vercel](https://fherate-frontend-gmvrhtzxg-galaxys-projects-639e1fd2.vercel.app)
 - **Sepolia Contract**: [SepoliaScan](https://sepolia.etherscan.io/address/0xDC86C4fed3B25d5C5161A61EbD80F7DE75c52fd6)
+- **GitHub Repository**: [FHERate on GitHub](https://github.com/WardLena/FHERate)
 - **FHEVM Docs**: [FHEVM Documentation](https://docs.zama.ai/fhevm)
 - **Hardhat Docs**: [Hardhat Documentation](https://hardhat.org)
 
